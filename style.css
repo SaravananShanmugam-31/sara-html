@@ -1,0 +1,45 @@
+#topic{
+    text-align: left;
+    font-size:xx-large;
+    color: rgb(37, 5, 5);
+    font-style:oblique;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+#b1{
+    background: linear-gradient(purple,pink,purple,pink,purple);
+ 
+}
+#img{
+    height: 200px;
+    width: 200px;
+    border: 50%;
+    margin: 50px;
+}
+img{
+    height: 140px;
+    width: 14
+    0px;
+    border: 50%;
+    margin: 10px;
+}
+li{
+    color:black;
+    margin-left: 1%;
+    text-align: justify;
+    font-size:x-large;
+}
+
+p{
+    color:black;
+    margin-left: 1%;
+    text-align: justify;
+    font-size:x-large;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: rgb(47, 6, 62);
+    text-shadow: 5px,5px,5px;
+}
